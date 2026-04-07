@@ -1,7 +1,7 @@
 # Weather App (Practice)
 
 ## App hosted in vercel 
-**Deployed App:** https://101512887-comp3123-labtest2.vercel.app/
+**Deployed App:** (https://simple-weather-app-practice.vercel.app/)
 
 ## 1. Project Overview
 This app allows the user to:
@@ -43,7 +43,7 @@ Example API call (metric): https://api.openweathermap.org/data/2.5/weather?q=Tor
 ## How to run
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ShadowK4t/101512887_comp3123_labtest2.git
+git clone https://github.com/ShadowK4t/Simple_Weather_app
 cd 
 
 npm install
