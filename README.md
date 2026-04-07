@@ -1,4 +1,4 @@
-# 101512887_comp3123_labtest2 - Weather App
+# Weather App (Practice)
 
 ## App hosted in vercel 
 **Deployed App:** https://101512887-comp3123-labtest2.vercel.app/
@@ -44,7 +44,7 @@ Example API call (metric): https://api.openweathermap.org/data/2.5/weather?q=Tor
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ShadowK4t/101512887_comp3123_labtest2.git
-cd 101512887_comp3123_labtest2
+cd 
 
 npm install
 
